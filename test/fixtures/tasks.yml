@@ -5,7 +5,7 @@ one:
   description: MyText
   start_date: 2015-11-10
   end_date: 2015-11-10
-  user_id: 1
+  user: one
   check: false
 
 two:
@@ -13,5 +13,5 @@ two:
   description: MyText
   start_date: 2015-11-10
   end_date: 2015-11-10
-  user_id: 1
+  user: two
   check: false
